@@ -75,6 +75,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicaç
 Sinta-se à vontade para explorar meus repositórios! 🚀
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🇺🇸 English Version
 
 # Hi! I'm Mikael Schwind
 
