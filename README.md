@@ -73,3 +73,44 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicaç
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaelsfm/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikael.mesquita@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios! 🚀
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Hi! I'm Mikael Schwind
+
+A Full Stack Developer passionate about technology, with experience in both mobile and web applications. My focus is on best practices, automated testing, and UI/UX. Currently working with React Native, Spring Boot, and cloud solutions (AWS).
+
+---
+## Featured Projects
+
+- **[Star Wars Pandemic Game](https://github.com/LuccaCGomes/Pandemic)**
+  A multiplayer web game based on the Pandemic board game, adapted to the Star Wars universe. Built with React, Node.js, and WebSockets.
+
+- **[Personal Finance System](https://github.com/mikaelsfm/TopicosEngSoftwareII)**
+  A full-stack application for managing income, expenses, and recurring transactions. Built with Spring Boot + React + CSV Import.
+
+---
+
+## Certifications and Courses
+
+- Docker & Kubernetes - Udemy
+- Github Copilot - Udemy
+- Bachelor's Degree in Information Systems – UFF (in progress)
+
+---
+
+## Languages
+
+- 🇧🇷 Portuguese (native)
+- 🇺🇸 English (intermediate/advanced)
+
+---
+
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaelsfm/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikael.mesquita@gmail.com)
+
+Feel free to explore my repositories!
+
+
