@@ -1,6 +1,8 @@
-# 👋 Olá! Eu sou o Mikael Schwind
+# Olá! Eu sou o Mikael Schwind
+
+Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicações mobile e web. Tenho foco em boas práticas, testes automatizados e UI/UX. Atualmente trabalhando com React Native, Spring Boot e soluções em nuvem (AWS).
 ---
-## 🚀 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,20 +31,46 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+## Projetos em Destaque
 
+- **[Jogo Star Wars Pandemic](https://github.com/LuccaCGomes/Pandemic)**  
+  Webgame multiplayer baseado no jogo de tabuleiro Pandemic, adaptado para o universo Star Wars. Utiliza React, Node.js e WebSockets.
+
+- **[Sistema de Finanças Pessoais](https://github.com/mikaelsfm/TopicosEngSoftwareII)**  
+  Aplicação fullstack para controle de receitas, despesas e lançamentos recorrentes. Spring Boot + React + CSV Import.
 
 ---
 
-<a href="https://github.com/mikaelsfm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaelsfm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
-</a>
-<a href="https://github.com/mikaelsfm">
-  <img align="center"  height= "196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelsfm&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
-</a>
+## Certificações e Cursos
+
+- Docker & Kubernetes - Udemy
+- Github Copilot - Udemy
+- Graduação em Sistemas Informação – UFF (em andamento)
+  
+---
+
+## GitHub Stats
+
+![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaelsfm&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelsfm&layout=compact&theme=github_dark)
 
 ---
 
-## 🖱️ Entre em Contato  
+![snake gif](https://github.com/mikaelsfm/mikaelsfm/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## Idiomas
+
+- 🇧🇷 Português (nativo)  
+- 🇺🇸 Inglês (intermediário/avançado)
+
+---
+
+
+## Entre em Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaelsfm/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikael.mesquita@gmail.com)
 
