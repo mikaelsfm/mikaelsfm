@@ -76,7 +76,7 @@ Sinta-se à vontade para explorar meus repositórios! 🚀
 
 ---
 
-
+<br>
 
 > ## 🇺🇸 English Version
 >
