@@ -52,13 +52,11 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicaç
 
 ## GitHub Stats
 
-![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaelsfm&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelsfm&layout=compact&theme=github_dark)
+![Mikael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikaelsfm&show_icons=true&theme=github_dark&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelsfm&layout=compact&theme=github_dark)
 
 ---
 
-![snake gif](https://github.com/mikaelsfm/mikaelsfm/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
