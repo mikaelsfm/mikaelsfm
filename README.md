@@ -1,6 +1,6 @@
 # Olá! Eu sou o Mikael Schwind
 
-Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicações mobile e web. Tenho foco em boas práticas, testes automatizados e UI/UX. Atualmente trabalhando com React Native, Spring Boot e soluções em nuvem (AWS).
+### Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicações mobile e web. Tenho foco em boas práticas, testes automatizados e UI/UX. Atualmente trabalhando com React Native, Spring Boot e soluções em nuvem (AWS).
 ---
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,6 +33,10 @@ Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em aplicaç
 
 ---
 ## Projetos em Destaque
+
+- **[TCC - MonitoraUFF](https://github.com/mikaelsfm/OpenCV_TCC_MonitoraUFF)**
+  Projeto focado no meu TCC, abordando reconhecimento de rostos e objetos por IA através de dispositivos de entrada de imagem
+
 
 - **[Jogo Star Wars Pandemic](https://github.com/LuccaCGomes/Pandemic)**  
   Webgame multiplayer baseado no jogo de tabuleiro Pandemic, adaptado para o universo Star Wars. Utiliza React, Node.js e WebSockets.
@@ -91,6 +95,9 @@ A Full Stack Developer passionate about technology, with experience in both mobi
 
 ---
 ## Featured Projects
+
+- **[MonitoraUFF - Thesis](https://github.com/mikaelsfm/OpenCV_TCC_MonitoraUFF)**
+  Project focused on my thesis, addressing facial and object recognition using AI through image input devices.
 
 - **[Star Wars Pandemic Game](https://github.com/LuccaCGomes/Pandemic)**
   A multiplayer web game based on the Pandemic board game, adapted to the Star Wars universe. Built with React, Node.js, and WebSockets.
